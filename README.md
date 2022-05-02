@@ -1,4 +1,4 @@
-# Artificial Neural Network Challenge 2021 @POLIMI
+# Artificial Neural Networks and Deep Learning Challenge 2021 @POLIMI
 
 Our solution for the following challenges presented during the course
 
